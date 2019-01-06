@@ -1,2 +1,3 @@
 this is a test file
 adding new line
+test-2 merge and tag in master
